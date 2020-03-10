@@ -27,7 +27,7 @@ https://rive-app.github.io/assets-for-api-docs/assets/tree-widget-flutter/extra_
 ```
 ### Shortened
 ```
-http://assets.rvcd.in/tree-widget-flutter/extra_spacing.png
+https://assets.rvcd.in/tree-widget-flutter/extra_spacing.png
 ```
 ## Credit
 
